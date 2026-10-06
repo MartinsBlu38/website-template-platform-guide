@@ -373,46 +373,26 @@ Where to sell website templates is a distribution decision. Big marketplaces giv
 Don't ask only "where can I upload my template?" Ask "where are my buyers already looking, and where can they see how good my work is?" Answer that, and the platform list shrinks to a manageable few.
 Platform fees, approval rules and features change often. Always check each platform's current terms before you decide.
 
-External links
+### External links
 
-Envato Market / ThemeForest
-
-Creative Market
-
-UI8
-
-Framer Marketplace
-
-Webflow Marketplace
-
-TemplateMonster
-
-Figma Community
-
-Etsy
-
-Creative Fabrica
-
-Gumroad
-
-Payhip
-
-Lemon Squeezy
-
-WordPress Themes
-
-ThemesMotion
-
-Behance
-
-Dribbble
-
-GitHub
-
-LinkedIn
-
-Reddit
-
-Pinterest
-
-Product Hunt
+- [Envato Market / ThemeForest](https://themeforest.net/)
+- [Creative Market](https://creativemarket.com/)
+- [UI8](https://ui8.net/)
+- [Framer Marketplace](https://www.framer.com/marketplace/)
+- [Webflow Marketplace](https://webflow.com/marketplace)
+- [TemplateMonster](https://www.templatemonster.com/)
+- [Figma Community](https://www.figma.com/community/)
+- [Etsy](https://www.etsy.com/)
+- [Creative Fabrica](https://www.creativefabrica.com/)
+- [Gumroad](https://gumroad.com/)
+- [Payhip](https://payhip.com/)
+- [Lemon Squeezy](https://www.lemonsqueezy.com/)
+- [WordPress Theme Directory](https://wordpress.org/themes/)
+- [ThemesMotion](https://themesmotion.com/)
+- [Behance](https://www.behance.net/)
+- [Dribbble](https://dribbble.com/)
+- [GitHub](https://github.com/)
+- [LinkedIn](https://www.linkedin.com/)
+- [Reddit](https://www.reddit.com/)
+- [Pinterest](https://www.pinterest.com/)
+- [Product Hunt](https://www.producthunt.com/)
